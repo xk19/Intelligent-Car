@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CS Pin=W25-2
+Removed Pin From Net: NetName=DO Pin=W25-3
+Removed Pin From Net: NetName=CLK Pin=W25-5
+Removed Pin From Net: NetName=DI Pin=W25-6
+Added Pin To Net: NetName=DI Pin=W25-2
+Added Pin To Net: NetName=CLK Pin=W25-3
+Added Pin To Net: NetName=DO Pin=W25-5
+Added Pin To Net: NetName=CS Pin=W25-6
+Added Room: Name=Sheet

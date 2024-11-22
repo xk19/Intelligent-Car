@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VB Pin=C211-1
+Added Pin To Net: NetName=NetP11_2 Pin=P11-2
+Added Pin To Net: NetName=NetP11_2 Pin=S1-2
+Added Net: Name=NetP11_2
+Added Room: Name=Sheet

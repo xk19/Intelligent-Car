@@ -1,0 +1,49 @@
+Added Component: Designator=DC1(SMA)
+Added Component: Designator=DC2(SMA)
+Added Component: Designator=DD1(SMA)
+Added Component: Designator=DD2(SMA)
+Added Component: Designator=DE1(SMA)
+Added Component: Designator=DE2(SMA)
+Added Component: Designator=DF1(SMA)
+Added Component: Designator=DF2(SMA)
+Added Component: Designator=DG1(SMA)
+Added Component: Designator=DG2(SMA)
+Added Component: Designator=DH1(SMA)
+Added Component: Designator=DH2(SMA)
+Added Pin To Net: NetName=GND Pin=DC1-1
+Added Pin To Net: NetName=NetDC1_2 Pin=DC1-2
+Added Pin To Net: NetName=NetDC1_2 Pin=DC2-1
+Added Pin To Net: NetName=ADC1_SE10 Pin=DC2-2
+Added Pin To Net: NetName=GND Pin=DD1-1
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_2 Pin=DD2-1
+Added Pin To Net: NetName=ADC1_SE11 Pin=DD2-2
+Added Pin To Net: NetName=GND Pin=DE1-1
+Added Pin To Net: NetName=NetDE1_2 Pin=DE1-2
+Added Pin To Net: NetName=NetDE1_2 Pin=DE2-1
+Added Pin To Net: NetName=ADC1_SE12 Pin=DE2-2
+Added Pin To Net: NetName=GND Pin=DF1-1
+Added Pin To Net: NetName=NetDF1_2 Pin=DF1-2
+Added Pin To Net: NetName=NetDF1_2 Pin=DF2-1
+Added Pin To Net: NetName=ADC1_SE13 Pin=DF2-2
+Added Pin To Net: NetName=GND Pin=DG1-1
+Added Pin To Net: NetName=NetDG1_2 Pin=DG1-2
+Added Pin To Net: NetName=NetDG1_2 Pin=DG2-1
+Added Pin To Net: NetName=ADC1_SE14 Pin=DG2-2
+Added Pin To Net: NetName=GND Pin=DH1-1
+Added Pin To Net: NetName=NetDH1_2 Pin=DH1-2
+Added Pin To Net: NetName=NetDH1_2 Pin=DH2-1
+Added Pin To Net: NetName=ADC1_SE15 Pin=DH2-2
+Added Member To Class: ClassName=Sheet Member=Component DC1 4148
+Added Member To Class: ClassName=Sheet Member=Component DC2 4148
+Added Member To Class: ClassName=Sheet Member=Component DD1 4148
+Added Member To Class: ClassName=Sheet Member=Component DD2 4148
+Added Member To Class: ClassName=Sheet Member=Component DE1 4148
+Added Member To Class: ClassName=Sheet Member=Component DE2 4148
+Added Member To Class: ClassName=Sheet Member=Component DF1 4148
+Added Member To Class: ClassName=Sheet Member=Component DF2 4148
+Added Member To Class: ClassName=Sheet Member=Component DG1 4148
+Added Member To Class: ClassName=Sheet Member=Component DG2 4148
+Added Member To Class: ClassName=Sheet Member=Component DH1 4148
+Added Member To Class: ClassName=Sheet Member=Component DH2 4148
+Added Room: Name=Sheet

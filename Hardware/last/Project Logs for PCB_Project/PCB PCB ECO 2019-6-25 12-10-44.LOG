@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VB Pin=S1-2
+Change Component DesignItemId : Designator=S1 Old DesignItemId=SW-SPST New DesignItemId=SW-SPDT
+Change Component Comment : Designator=S1 Old Comment=SW-SPST New Comment=SW-SPDT
+Change Component Description : Designator=S1 Old Description=Single-Pole, Single-Throw Switch New Description=SPDT Subminiature Toggle Switch, Right Angle Mounting, Vertical Actuation
+Added Pin To Net: NetName=NetC211_1 Pin=S1-2
+Added Room: Name=Sheet

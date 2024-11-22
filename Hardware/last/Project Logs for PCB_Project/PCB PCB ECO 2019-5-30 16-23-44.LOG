@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC12_1 Pin=P12-2
+Removed Pin From Net: NetName=3.3V Pin=STOP-1
+Removed Pin From Net: NetName=3.3V Pin=UART-1
+Added Component: Designator=S23(pressbutton)
+Added Pin To Net: NetName=NetC12_1 Pin=S23-2
+Added Pin To Net: NetName=5V Pin=STOP-1
+Added Pin To Net: NetName=5V Pin=UART-1
+Added Pin To Net: NetName=NetP12_2 Pin=P12-2
+Added Pin To Net: NetName=NetP12_2 Pin=S23-1
+Added Net: Name=NetP12_2
+Added Member To Class: ClassName=Sheet Member=Component S23 S2W
+Added Room: Name=Sheet

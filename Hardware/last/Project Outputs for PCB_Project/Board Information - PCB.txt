@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\10399\Desktop\ÖÇÄÜ³µ\victory\last\PCB.PcbDoc
+Date         : 2019/6/25
+Time         : 15:58:42
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 97.79%
+    Connections, 181
+    Connections routed, 177
+    Connections remaining, 4
+count : 4

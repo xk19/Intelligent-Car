@@ -1,0 +1,17 @@
+"E:\Freescale\IAR for ARM\arm\bin\armproc.dll" 
+
+"E:\Freescale\IAR for ARM\arm\bin\armjlink2.dll" 
+
+"C:\Users\lenovo\Desktop\程序\越野组\720_cicle_barrier_zhijiao_stop\Debug\Exe\project.out" 
+
+--plugin "E:\Freescale\IAR for ARM\arm\bin\armbat.dll" 
+
+--rtc_enable 
+
+--device_macro "E:\Freescale\IAR for ARM\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "E:\Freescale\IAR for ARM\arm\config\debugger\NXP\K6x_Trace.dmac" 
+
+
+
+

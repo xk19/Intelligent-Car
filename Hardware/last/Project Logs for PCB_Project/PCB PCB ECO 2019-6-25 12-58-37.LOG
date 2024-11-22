@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=STOP Old Footprint=HDR1X3 New Footprint=HX2.54-3
+Change Component Footprint: Designator=SR-04 Old Footprint=HDR1X4 New Footprint=HX2.54-4
+Change Component Footprint: Designator=DRIVE Old Footprint=HDR1X5 New Footprint=HX2.54-5
+Added Room: Name=Sheet

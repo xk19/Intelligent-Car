@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [PCB_Project.PrjPcb]
+   Generated File[PCB.BOM]
+   Generated File[PCB.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 10:33:29 On 2019/6/16

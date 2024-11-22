@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=KEY2 Pin=LQ_KXXP144-SYSVG-85
+Removed Pin From Net: NetName=KEY1 Pin=LQ_KXXP144-SYSVG-86
+Removed Pin From Net: NetName=KEY3 Pin=LQ_KXXP144-SYSVG-88
+Added Pin To Net: NetName=KEY2 Pin=LQ_KXXP144-SYSVG-3
+Added Pin To Net: NetName=KEY1 Pin=LQ_KXXP144-SYSVG-4
+Added Pin To Net: NetName=KEY3 Pin=LQ_KXXP144-SYSVG-5
+Added Room: Name=Sheet
